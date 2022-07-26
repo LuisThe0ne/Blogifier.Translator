@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Blogifier.Translator": {
+      "commandName": "Project"
+    },
+    "Test Args": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Development\\Blogifier.Translator\\Resource-DE.resx\""
+    },
+    "Invalid Args": {
+      "commandName": "Project",
+      "commandLineArgs": "gjhkfsdAVBK"
+    }
+  }
+}
