@@ -54,6 +54,7 @@ void TranslateManual(string sourcefile)
     catch(Exception e)
     {
         Console.WriteLine(e.Message);
+        Console.ReadKey();
     }
 }
 
